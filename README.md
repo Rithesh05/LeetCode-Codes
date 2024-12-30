@@ -19,4 +19,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0029-divide-two-integers) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2562-count-ways-to-build-good-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2562-count-ways-to-build-good-strings) |
 <!---LeetCode Topics End-->
