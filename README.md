@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0001-two-sum) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,10 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
+| [2691-count-vowel-strings-in-ranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Recursion
 |  |
 | ------- |
