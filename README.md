@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
 | [1524-string-matching-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## String Matching
 |  |
@@ -100,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
