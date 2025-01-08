@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2465-shifting-letters-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2465-shifting-letters-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1524-string-matching-in-an-array) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Matrix
 |  |
 | ------- |
@@ -116,4 +119,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Hash Function
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
