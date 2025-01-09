@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [1524-string-matching-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1524-string-matching-in-an-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 ## Math
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
