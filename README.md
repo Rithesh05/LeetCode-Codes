@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0031-next-permutation) |
+| [0041-first-missing-positive](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0056-merge-intervals) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
