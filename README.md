@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
 ## Stack
 |  |
