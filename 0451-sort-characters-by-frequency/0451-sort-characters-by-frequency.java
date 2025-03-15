@@ -26,7 +26,7 @@ class Solution
                 sb.append((char)('0'+ind));
             }
             freq[ind] = 0;
-            k += --max;
+            k += (max-1);
         }
         return sb.toString();
     }
