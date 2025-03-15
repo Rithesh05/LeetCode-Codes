@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
+| [1078-remove-outermost-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Binary Search
 |  |
