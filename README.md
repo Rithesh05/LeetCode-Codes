@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
+| [1031-add-to-array-form-of-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1287-distance-between-bus-stops](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1287-distance-between-bus-stops) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0062-unique-paths) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [2032-largest-odd-number-in-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 ## Bit Manipulation
