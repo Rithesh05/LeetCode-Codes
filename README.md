@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0225-implement-stack-using-queues) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
