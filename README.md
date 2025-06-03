@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0742-to-lower-case](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1078-remove-outermost-parentheses) |
