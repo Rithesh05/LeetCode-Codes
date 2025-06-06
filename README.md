@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1524-string-matching-in-an-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
