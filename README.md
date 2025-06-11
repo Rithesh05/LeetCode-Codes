@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2509-minimize-xor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2533-bitwise-xor-of-all-pairings) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2032-largest-odd-number-in-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -292,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Stack
 |  |
 | ------- |
