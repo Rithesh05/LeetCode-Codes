@@ -2,12 +2,12 @@ class Solution {
     public int binarysearch(int[] arr){
         int l = 0;
         int h = arr.length - 1;
-        int firstNegative = arr.length; // default: no negatives
+        int firstNegative = arr.length; 
 
         while (l <= h) {
             int mid = (l + h) / 2;
             if (arr[mid] < 0) {
-                firstNegative = mid; // found a negative, but look left
+                firstNegative = mid; 
                 h = mid - 1;
             } else {
                 l = mid + 1;
@@ -21,7 +21,7 @@ class Solution {
         int sum = 0;
         for (int i = 0; i < grid.length; i++) {
             if (grid[i][grid[i].length - 1] >= 0) {
-                // No negatives in this row
+              
                 continue;
             }
             sum += binarysearch(grid[i]);
