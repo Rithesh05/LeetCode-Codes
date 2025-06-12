@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1287-distance-between-bus-stops](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1287-distance-between-bus-stops) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1505-create-target-array-in-the-given-order) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -327,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Brainteaser
 |  |
