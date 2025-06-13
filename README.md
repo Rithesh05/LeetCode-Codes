@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1241-decompress-run-length-encoded-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1241-decompress-run-length-encoded-list) |
 | [1287-distance-between-bus-stops](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1287-distance-between-bus-stops) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1421-find-numbers-with-even-number-of-digits) |
