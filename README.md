@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0735-asteroid-collision) |
+| [0937-online-stock-span](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0937-online-stock-span) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0225-implement-stack-using-queues) |
+| [0937-online-stock-span](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -401,8 +403,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0496-next-greater-element-i) |
+| [0937-online-stock-span](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0937-online-stock-span) |
 ## Counting Sort
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
