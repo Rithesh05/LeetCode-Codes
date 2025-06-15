@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0062-unique-paths) |
+| [0172-factorial-trailing-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1031-add-to-array-form-of-integer) |
