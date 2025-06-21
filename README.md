@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [3371-harshad-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3371-harshad-number) |
 ## Bit Manipulation
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
