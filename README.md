@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
@@ -429,4 +431,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
