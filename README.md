@@ -453,4 +453,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2127-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
