@@ -446,5 +446,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0584-find-customer-referee) |
+| [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
