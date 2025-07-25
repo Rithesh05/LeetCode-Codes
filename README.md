@@ -437,4 +437,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0216-combination-sum-iii) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
