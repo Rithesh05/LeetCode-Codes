@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1031-add-to-array-form-of-integer) |
+| [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1241-decompress-run-length-encoded-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1241-decompress-run-length-encoded-list) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0547-number-of-provinces](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
