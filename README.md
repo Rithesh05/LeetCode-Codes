@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0620-not-boring-movies) |
 | [1153-product-sales-analysis-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1161-project-employees-i) |
+| [1179-game-play-analysis-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1179-game-play-analysis-i) |
 | [1390-average-selling-price](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1670-patients-with-a-condition](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1670-patients-with-a-condition) |
