@@ -15,7 +15,6 @@ class Solution {
         boolean[][] vis = new boolean[row][col];
         int noof1s = 0;
 
-        // Count total number of 1s
         for (int i = 0; i < row; i++) {
             for (int j = 0; j < col; j++) {
                 if (grid[i][j] == 1) {
@@ -24,21 +23,21 @@ class Solution {
             }
         }
 
-        // Traverse boundary rows
+     
         for (int i = 0; i < col; i++) {
             if (grid[0][i] == 1 && !vis[0][i]) {
                 q.add(new Pair(0, i));
                 noof1s--;
                 vis[0][i] = true;
             }
-            if (grid[row - 1][i] == 1 && !vis[row - 1][i]) { // ✅ FIXED
+            if (grid[row - 1][i] == 1 && !vis[row - 1][i]) { 
                 q.add(new Pair(row - 1, i));
                 noof1s--;
                 vis[row - 1][i] = true;
             }
         }
 
-        // Traverse boundary columns
+   
         for (int i = 0; i < row; i++) {
             if (grid[i][0] == 1 && !vis[i][0]) {
                 q.add(new Pair(i, 0));
@@ -55,7 +54,6 @@ class Solution {
         int[] dr = {-1, 0, 1, 0};
         int[] dc = {0, 1, 0, -1};
 
-        // BFS from boundary 1s
         while (!q.isEmpty()) {
             Pair curr = q.poll();
             for (int i = 0; i < 4; i++) {
