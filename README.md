@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0130-surrounded-regions) |
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
@@ -404,11 +405,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0130-surrounded-regions](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Sliding Window
 |  |
 | ------- |
