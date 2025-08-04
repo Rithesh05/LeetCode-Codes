@@ -1,41 +1,35 @@
 class Solution {
-    public boolean dfs(int curr, boolean[] vis, boolean[] pvis, boolean[] safe, int[][] graph) {
-        vis[curr] = true;
-        pvis[curr] = true;
-
-        for (int nei : graph[curr]) {
-            if (!vis[nei]) {
-                if (dfs(nei, vis, pvis, safe, graph))
+    public static boolean dfs(int curr,boolean[] vis,boolean[] pvis,int[][] graph){
+        vis[curr]=true;
+        pvis[curr]=true;
+        for(int nei:graph[curr]){
+            if(!vis[nei]){
+                if(dfs(nei,vis,pvis,graph)==true)
+                return true;
+            }else{
+                if(pvis[nei]==true){
                     return true;
-            } else if (pvis[nei]) {
-                return true; // cycle detected
+                }
             }
         }
-
-        pvis[curr] = false;
-        safe[curr] = true; // no cycle from this node
+        pvis[curr]=false;
         return false;
     }
-
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length;
-        boolean[] vis = new boolean[n];
-        boolean[] pathvis = new boolean[n];
-        boolean[] safe = new boolean[n];
-
-        for (int i = 0; i < n; i++) {
-            if (!vis[i]) {
-                dfs(i, vis, pathvis, safe, graph);
+        boolean vis[]=new boolean[graph.length];
+        boolean pathvis[]=new boolean[graph.length];
+        for(int i=0;i<graph.length;i++){
+            if(!vis[i]){
+                dfs(i,vis,pathvis,graph);
             }
         }
-
-        List<Integer> result = new ArrayList<>();
-        for (int i = 0; i < n; i++) {
-            if (safe[i]) {
-                result.add(i);
+        ArrayList<Integer> list=new ArrayList<>();
+        for(int i=0;i<pathvis.length;i++){
+            if(!pathvis[i]){
+                list.add(i);
             }
         }
+        return list;
 
-        return result;
     }
 }
