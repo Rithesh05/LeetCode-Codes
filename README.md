@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -428,12 +429,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 ## Sliding Window
 |  |
 | ------- |
