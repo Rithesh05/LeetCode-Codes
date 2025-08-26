@@ -1,0 +1,2 @@
+# Write your MySQL query statement below
+select b.teacher_id, count(b.teacher_id) as cnt from (select teacher_id,count(*) as cnt from teacher group by teacher_id,subject_id) as b group by b.teacher_id; 
