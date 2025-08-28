@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
