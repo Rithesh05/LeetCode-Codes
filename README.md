@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2050-count-good-numbers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2649-count-total-number-of-colored-cells) |
+| [3055-maximum-odd-binary-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3055-maximum-odd-binary-number) |
 | [3371-harshad-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3371-harshad-number) |
 ## Bit Manipulation
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2465-shifting-letters-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3055-maximum-odd-binary-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Prefix Sum
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2509-minimize-xor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2509-minimize-xor) |
+| [3055-maximum-odd-binary-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
 | ------- |
