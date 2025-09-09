@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2050-count-good-numbers) |
+| [2507-number-of-common-factors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2507-number-of-common-factors) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [3055-maximum-odd-binary-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3055-maximum-odd-binary-number) |
 | [3371-harshad-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3371-harshad-number) |
@@ -559,4 +560,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0820-find-eventual-safe-states) |
+## Enumeration
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2507-number-of-common-factors) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
