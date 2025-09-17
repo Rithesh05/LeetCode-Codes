@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0062-unique-paths) |
+| [0171-excel-sheet-column-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0326-power-of-three) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
+| [0171-excel-sheet-column-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0402-remove-k-digits) |
