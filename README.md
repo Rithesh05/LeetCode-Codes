@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2649-count-total-number-of-colored-cells](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2649-count-total-number-of-colored-cells) |
 | [3055-maximum-odd-binary-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3055-maximum-odd-binary-number) |
 | [3371-harshad-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3371-harshad-number) |
+| [3830-find-closest-person](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3830-find-closest-person) |
 ## Bit Manipulation
 |  |
 | ------- |
