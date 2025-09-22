@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0062-unique-paths) |
+| [0091-decode-ways](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0022-generate-parentheses) |
+| [0091-decode-ways](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
