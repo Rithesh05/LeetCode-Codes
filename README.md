@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0217-contains-duplicate) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
