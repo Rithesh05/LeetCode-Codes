@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0575-distribute-candies) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0735-asteroid-collision) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0540-single-element-in-a-sorted-array) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0907-koko-eating-bananas](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1056-capacity-to-ship-packages-within-d-days) |
