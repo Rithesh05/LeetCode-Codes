@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0575-distribute-candies) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0500-keyboard-row) |
 | [0742-to-lower-case](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
