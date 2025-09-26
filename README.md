@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0383-ransom-note) |
 | [0402-remove-k-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0402-remove-k-digits) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0229-majority-element-ii) |
+| [0383-ransom-note](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0383-ransom-note) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
