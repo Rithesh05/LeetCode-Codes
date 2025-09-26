@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3055-maximum-odd-binary-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3055-maximum-odd-binary-number) |
 | [3194-find-words-containing-character](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3636-check-balanced-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3636-check-balanced-string) |
 ## Prefix Sum
 |  |
 | ------- |
