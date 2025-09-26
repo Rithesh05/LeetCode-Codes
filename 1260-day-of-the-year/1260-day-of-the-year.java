@@ -13,7 +13,7 @@ class Solution {
 
         int sum = 0;
         for (int i = 0; i < month - 1; i++) {
-            if (i == 1 && isleap(year)) {  // February in leap year
+            if (i == 1 && isleap(year)) {  
                 sum += 29;
             } else {
                 sum += days[i];
