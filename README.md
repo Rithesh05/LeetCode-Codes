@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0402-remove-k-digits) |
+| [0434-number-of-segments-in-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0742-to-lower-case](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0812-rotate-string) |
