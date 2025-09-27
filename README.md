@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0735-asteroid-collision) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0747-min-cost-climbing-stairs) |
+| [0898-transpose-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0907-koko-eating-bananas) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
+| [0898-transpose-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0735-asteroid-collision) |
+| [0898-transpose-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0898-transpose-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1505-create-target-array-in-the-given-order) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
