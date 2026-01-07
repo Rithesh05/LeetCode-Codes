@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
@@ -492,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0210-course-schedule-ii) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
