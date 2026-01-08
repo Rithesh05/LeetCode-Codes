@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1236-n-th-tribonacci-number) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2562-count-ways-to-build-good-strings) |
 ## String
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [1078-remove-outermost-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1078-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1143-longest-common-subsequence) |
 | [1205-defanging-an-ip-address](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1205-defanging-an-ip-address) |
 | [1260-day-of-the-year](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1260-day-of-the-year) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
