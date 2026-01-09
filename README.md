@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0575-distribute-candies) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1039-find-the-town-judge) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
@@ -526,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0820-find-eventual-safe-states) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -543,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Sliding Window
