@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
 | [1039-find-the-town-judge](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1039-find-the-town-judge) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -473,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 ## Graph
 |  |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Tree
 |  |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
+| [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Sliding Window
 |  |
