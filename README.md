@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1143-longest-common-subsequence) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0500-keyboard-row) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0742-to-lower-case](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
