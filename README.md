@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0410-split-array-largest-sum) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0216-combination-sum-iii) |
 ## Database
 |  |
