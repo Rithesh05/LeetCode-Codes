@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0075-sort-colors) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0203-remove-linked-list-elements) |
