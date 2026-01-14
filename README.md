@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0130-surrounded-regions) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0131-palindrome-partitioning) |
