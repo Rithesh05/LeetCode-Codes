@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0966-binary-subarrays-with-sum) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1039-find-the-town-judge](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1039-find-the-town-judge) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
@@ -486,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -524,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
@@ -549,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0820-find-eventual-safe-states) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
@@ -569,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
