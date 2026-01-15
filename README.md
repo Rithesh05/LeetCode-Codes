@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2792-neighboring-bitwise-xor) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2836-neither-minimum-nor-maximum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3194-find-words-containing-character](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
@@ -347,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2836-neither-minimum-nor-maximum) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Heap (Priority Queue)
 |  |
