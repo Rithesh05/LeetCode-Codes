@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1502-construct-k-palindrome-strings) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2836-neither-minimum-nor-maximum) |
