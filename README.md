@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3194-find-words-containing-character) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2836-neither-minimum-nor-maximum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2836-neither-minimum-nor-maximum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
