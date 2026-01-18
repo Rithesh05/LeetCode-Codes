@@ -35,10 +35,10 @@ class Solution {
                 if (curr.node.right != null)
                     q.add(new Pair(curr.node.right, idx * 2 + 1));
 
-                maxWidth = Math.max(maxWidth, (int)(last - first + 1));
+               
             }
 
-            
+             maxWidth = Math.max(maxWidth, (int)(last - first + 1));
         }
         return maxWidth;
     }
