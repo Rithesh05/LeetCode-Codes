@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0389-find-the-difference) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0210-course-schedule-ii) |
+| [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
 | [0463-island-perimeter](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0547-number-of-provinces) |
@@ -599,6 +602,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0199-binary-tree-right-side-view) |
+| [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -661,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0113-path-sum-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
