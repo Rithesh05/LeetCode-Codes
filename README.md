@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2308-divide-array-into-equal-pairs) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 ## Math
 |  |
@@ -523,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1073-number-of-enclaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1073-number-of-enclaves) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Graph
 |  |
 | ------- |
@@ -567,6 +569,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -600,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
 |  |
 | ------- |
@@ -626,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [2385-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2385-amount-of-time-for-binary-tree-to-be-infected) |
 ## Sliding Window
 |  |
 | ------- |
