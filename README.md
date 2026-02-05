@@ -517,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0226-invert-binary-tree) |
+| [0404-sum-of-left-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0463-island-perimeter](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
@@ -569,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0662-maximum-width-of-binary-tree) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0547-number-of-provinces) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0662-maximum-width-of-binary-tree) |
