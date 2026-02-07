@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0119-pascals-triangle-ii) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0205-isomorphic-strings) |
@@ -425,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0215-kth-largest-element-in-an-array) |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0113-path-sum-ii) |
@@ -625,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0113-path-sum-ii) |
