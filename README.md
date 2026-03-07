@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0575-distribute-candies) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0952-word-subsets](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0952-word-subsets) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3471-minimum-average-of-smallest-and-largest-elements](https://github.com/Rithesh05/LeetCode-Codes/tree/master/3471-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0463-island-perimeter) |
 | [0542-01-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0547-number-of-provinces) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
@@ -584,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -617,6 +621,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0547-number-of-provinces) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0733-flood-fill) |
 | [0801-is-graph-bipartite](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0801-is-graph-bipartite) |
@@ -654,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0572-subtree-of-another-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0662-maximum-width-of-binary-tree) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -790,6 +796,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Geometry
 |  |
 | ------- |
