@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1448-maximum-69-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1448-maximum-69-number) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2032-largest-odd-number-in-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2050-count-good-numbers) |
 | [2507-number-of-common-factors](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2507-number-of-common-factors) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1046-max-consecutive-ones-iii) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1603-running-sum-of-1d-array) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2358-number-of-ways-to-split-array) |
@@ -382,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2836-neither-minimum-nor-maximum) |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0407-trapping-rain-water-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0451-sort-characters-by-frequency) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 ## String Matching
 |  |
@@ -424,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1791-richest-customer-wealth](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1791-richest-customer-wealth) |
+| [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Rithesh05/LeetCode-Codes/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 ## Simulation
 |  |
