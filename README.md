@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0326-power-of-three) |
+| [0507-perfect-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/Rithesh05/LeetCode-Codes/tree/master/1236-n-th-tribonacci-number) |
